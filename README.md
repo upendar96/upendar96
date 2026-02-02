@@ -12,7 +12,6 @@ Currently seeking **entry-level / junior software developer** opportunities.
 - 🎓 B.Tech in Electronics & Communication Engineering (2024)
 - 💻 Trained as a Java Full Stack Developer at **KodNest Technologies**
 - 🔧 Strong in backend development & API design
-- 🌱 Currently improving **DSA, Spring Security, and system design basics**
 - 🔍 Actively looking for **Java / Full Stack Developer** roles
 
 ---
@@ -22,7 +21,7 @@ Currently seeking **entry-level / junior software developer** opportunities.
 ### 🔹 Programming Languages
 - Java (Core & Advanced)
 - JavaScript
-- Data Structures & Algorithms
+- Python(basic programming)
 
 ### 🔹 Backend
 - Spring Boot
@@ -35,7 +34,7 @@ Currently seeking **entry-level / junior software developer** opportunities.
 - React.js
 
 ### 🔹 Databases
-- MySQL
+- SQL
 - MongoDB
 
 ### 🔹 Tools & Platforms
